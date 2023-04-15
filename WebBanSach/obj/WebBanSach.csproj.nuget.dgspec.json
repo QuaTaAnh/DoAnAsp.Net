@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soica\\OneDrive\\BTL WebBanSach\\WebBanSach\\WebBanSach\\WebBanSach.csproj": {}
+    "D:\\Nam3\\Ky_II\\LapTrinhWeb\\DoAnBanSach\\WebBanSach\\WebBanSach\\WebBanSach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soica\\OneDrive\\BTL WebBanSach\\WebBanSach\\WebBanSach\\WebBanSach.csproj": {
+    "D:\\Nam3\\Ky_II\\LapTrinhWeb\\DoAnBanSach\\WebBanSach\\WebBanSach\\WebBanSach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soica\\OneDrive\\BTL WebBanSach\\WebBanSach\\WebBanSach\\WebBanSach.csproj",
+        "projectUniqueName": "D:\\Nam3\\Ky_II\\LapTrinhWeb\\DoAnBanSach\\WebBanSach\\WebBanSach\\WebBanSach.csproj",
         "projectName": "WebBanSach",
-        "projectPath": "C:\\Users\\soica\\OneDrive\\BTL WebBanSach\\WebBanSach\\WebBanSach\\WebBanSach.csproj",
-        "packagesPath": "C:\\Users\\soica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soica\\OneDrive\\BTL WebBanSach\\WebBanSach\\WebBanSach\\obj\\",
+        "projectPath": "D:\\Nam3\\Ky_II\\LapTrinhWeb\\DoAnBanSach\\WebBanSach\\WebBanSach\\WebBanSach.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Nam3\\Ky_II\\LapTrinhWeb\\DoAnBanSach\\WebBanSach\\WebBanSach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\soica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
